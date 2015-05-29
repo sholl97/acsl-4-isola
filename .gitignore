@@ -1,0 +1,6 @@
+*.meta*
+*/bin/*
+*/doc/*
+.*
+*.tar
+*.class
